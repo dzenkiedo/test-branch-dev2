@@ -1,0 +1,19 @@
+{
+  "name": "test-branch-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzenkiedo/test-branch-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzenkiedo/test-branch-dev/issues"
+  },
+  "homepage": "https://github.com/dzenkiedo/test-branch-dev#readme"
+}
